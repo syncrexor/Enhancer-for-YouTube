@@ -1,4 +1,4 @@
-Firefox Add-on "Enhancer for YouTube"
+Firefox Add-on "Enhancer for YouTube" Version 2.0.121
 
 
 
