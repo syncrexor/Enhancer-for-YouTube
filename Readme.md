@@ -1,7 +1,5 @@
 Firefox Add-on Enhancer for YouTube 
 
-For Windows :
 
-Copy "enhancerforyoutube@maximerf.addons.mozilla.org.xpi" file to :
 
-C:\Users\\[user-name]\AppData\Roaming\Mozilla\Firefox\Profiles\\[profile-name]\extensions
+in "Manage Extensions" on Firefox, install it by "Install Add-on From File..."
